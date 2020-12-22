@@ -17,10 +17,9 @@ This is a simple Todo List web application to save daily tasks for users.
 
 **Technologies used:**
 -----------------------------
-•	Spring Boot Framework for backend API.
-
-•	Spring Security for Auth.
-
-•	H2 In Memory database for CRUD Ops.
-
-•	junit Framework for Testing API.
+<ul>
+<li> Spring Boot Framework for backend API.</li>
+<li> Spring Security for Auth.</li>
+<li> H2 In Memory database for CRUD Ops.</li>
+<li> junit Framework for Testing API.</li>
+</ul>
