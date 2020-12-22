@@ -4,23 +4,19 @@ TODO List Using Spring Boot
 This is a simple Todo List web application to save daily tasks for users.
 
 **Basic Features:**
-
-•	Add new user, categories and tasks.
-
-•	Edit user, categories and tasks.
-
-•	Delete user, categories and tasks.
-
-•	Retrieve All user tasks.
-
-•	Retrieve All user Categories.
-
-•	Retrieve All user tasks within specific category.
-
+----------------------------------
+<ul>
+<li> Add new user, categories and tasks.</li>
+<li> Edit user, categories and tasks.</li>
+<li> Delete user, categories and tasks.</li>
+<li> Retrieve All user tasks.</li>
+<li> Retrieve All user Categories.</li>
+<li> Retrieve All user tasks within specific category.</li>
+</ul>
 
 
 **Technologies used:**
-
+-----------------------------
 •	Spring Boot Framework for backend API.
 
 •	Spring Security for Auth.
